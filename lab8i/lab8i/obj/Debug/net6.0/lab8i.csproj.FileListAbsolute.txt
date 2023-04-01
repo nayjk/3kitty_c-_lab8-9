@@ -1,0 +1,15 @@
+D:\desktop\c#\worldskills\lab8i\lab8i\bin\Debug\net6.0\lab8i.exe
+D:\desktop\c#\worldskills\lab8i\lab8i\bin\Debug\net6.0\lab8i.deps.json
+D:\desktop\c#\worldskills\lab8i\lab8i\bin\Debug\net6.0\lab8i.runtimeconfig.json
+D:\desktop\c#\worldskills\lab8i\lab8i\bin\Debug\net6.0\lab8i.dll
+D:\desktop\c#\worldskills\lab8i\lab8i\bin\Debug\net6.0\lab8i.pdb
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.csproj.AssemblyReference.cache
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.AssemblyInfoInputs.cache
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.AssemblyInfo.cs
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.csproj.CoreCompileInputs.cache
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.dll
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\refint\lab8i.dll
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.pdb
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\lab8i.genruntimeconfig.cache
+D:\desktop\c#\worldskills\lab8i\lab8i\obj\Debug\net6.0\ref\lab8i.dll
